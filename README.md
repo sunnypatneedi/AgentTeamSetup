@@ -2,6 +2,10 @@
 
 Sets up a Chief of Agents: one primary assistant that interviews you, proposes three to six role-based bots, and then runs them under draft-by-default safety rules, a single Decision Queue, and scheduled briefs.
 
+[![Watch the 30-second film: One prompt. A whole agent team.](assets/thumbnail.jpg)](assets/AgentTeamSetup-30s.mp4)
+
+**[Watch the 30-second film](assets/AgentTeamSetup-30s.mp4)** (with sound).
+
 It is one prompt. Paste it into your assistant, or open it from [sunnypatneedi.com/prompts](https://sunnypatneedi.com/prompts#agent-team-setup), where buttons load it into Claude, ChatGPT or Grok.
 
 ## How to use it
